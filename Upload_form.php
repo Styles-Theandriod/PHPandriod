@@ -7,6 +7,7 @@
 </head>
 <body>
     <h2>File Upload Form</h2>
+    <!-- <h2>File Upload Form</h2> -->
      
     <form action="upload.php" method="Post" enctype="multipart/form-data">
         <label for="file">Select a file:</label>
