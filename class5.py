@@ -32,3 +32,8 @@ fav_football_players = ['Nwabai', 'Messi', 'Ronaldo', 'Nema', 'Osimehn']
 # print(artist[::2])
 # print(artist[-3:-1])
 print(fav_football_players[-1:-3])
+print(fav_football_players[-1:-3])
+print(fav_football_players[-1:-3])
+print(fav_football_players[-1:-3])
+print(fav_football_players[-1:-3])
+print(fav_football_players[-1:-3])
